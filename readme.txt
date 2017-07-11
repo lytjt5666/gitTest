@@ -3,3 +3,4 @@ i'm learning git right now
 add something
 add more
 by lyt
+Creating a new branch is quick.
